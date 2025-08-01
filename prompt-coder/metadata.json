@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Coder",
+  "description": "An AI-powered tool to help you craft and refine effective prompts for code generation and other AI tasks. Input your initial idea, and let Gemini transform it into a detailed, structured, and optimized prompt.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
